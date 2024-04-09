@@ -1,6 +1,6 @@
 # This is my code for a competition I participated in (3rd programming competition Bahrain AI) using Kaggle
 
-## @hich is a model to predict the sales price of a house from given variables.
+## Which is a model to predict the sales price of a house from given variables.
 
 ### **Input file:** house_data_test4.csv
 ### **Output file:** will be generated after running the code as submission.csv

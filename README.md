@@ -1,4 +1,4 @@
-# This is my code for a competition I participated in (3rd programming competition Bahrain AI) using Kaggle
+# This is my code for a competition I participated in (3rd programming competition Bahrain AI) using Kaggle.
 
 ## Which is a model to predict the sales price of a house from given variables.
 
